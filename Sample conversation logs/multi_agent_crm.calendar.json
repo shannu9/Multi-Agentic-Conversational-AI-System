@@ -1,0 +1,281 @@
+[{
+  "_id": {
+    "$oid": "68735e3318866212461ec12a"
+  },
+  "user_id": "test123",
+  "title": "Project Update Meeting with John",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Meeting with John for project updates.",
+  "event_id": "2138a369-7946-4239-b405-3fe5b8f499a2",
+  "created_at": {
+    "$date": "2025-07-13T07:20:19.937Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68735f2918866212461ec12c"
+  },
+  "event_id": "2fd763b4-7938-405d-9b67-083a3ac10e80",
+  "user_id": "string",
+  "title": "string",
+  "description": "string",
+  "datetime": {
+    "$date": "2025-07-13T07:24:22.310Z"
+  },
+  "conversation_id": "string",
+  "created_at": {
+    "$date": "2025-07-13T07:24:25.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6873612d7b70b826fd66ca85"
+  },
+  "user_id": "test123",
+  "title": "Project Updates Meeting with John",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Meeting with John for project updates.",
+  "event_id": "aba50425-0bad-4bc4-aff4-5190d8e46806",
+  "conversation_id": "3c7aebb9-ce9c-4a0b-b276-faf5e56cf351",
+  "created_at": {
+    "$date": "2025-07-13T07:33:01.409Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687362bddd8893ff966de7b0"
+  },
+  "user_id": "test1234",
+  "title": "Project Update Meeting with John",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Meeting with John for project updates.",
+  "event_id": "4f30147e-4205-4520-8cfc-f4896ac58b1d",
+  "conversation_id": "70d6afaf-bfe5-47d9-9eae-3b9325ee0e14",
+  "created_at": {
+    "$date": "2025-07-13T07:39:41.618Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6873632b5f19757480ae87ea"
+  },
+  "user_id": "test12345",
+  "title": "Project Update Meeting with John",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Meeting with John for project updates.",
+  "event_id": "926e064a-2b76-4b29-8491-6b3a592e95fe",
+  "conversation_id": "f3cef98b-d2c3-4453-831a-b54d84b47450",
+  "created_at": {
+    "$date": "2025-07-13T07:41:31.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687363a7ad9f55786d351c09"
+  },
+  "user_id": "test12345",
+  "title": "Project Update Meeting with John",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Meeting with John for project updates.",
+  "event_id": "71c68fd6-5cb3-473b-a7d5-dfd1378e2c7f",
+  "conversation_id": "64954246-3a6d-42c5-8f39-638a65099f51",
+  "created_at": {
+    "$date": "2025-07-13T07:43:35.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687367ac0ba796ed4a1f2f6b"
+  },
+  "user_id": "test12345",
+  "title": "Project Update Meeting with John",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Meeting with John for project updates.",
+  "event_id": "61f8f0ec-f071-4d21-be1e-5728f45ebb71",
+  "conversation_id": "e8aa10e0-c812-4b4f-b5e5-5a1e099d604d",
+  "created_at": {
+    "$date": "2025-07-13T08:00:44.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687367d69176032f225e187f"
+  },
+  "user_id": "test12345",
+  "title": "Project Update Meeting with John",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Meeting with John for project updates.",
+  "event_id": "998a96d9-6401-4073-8c70-269d259728fc",
+  "conversation_id": "38af6b2c-9eed-4a91-a744-d78bea995f49",
+  "created_at": {
+    "$date": "2025-07-13T08:01:26.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68737deb95931c6c5423e5fc"
+  },
+  "user_id": "test123",
+  "title": "Meeting with John - Project Updates",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Project updates meeting with John",
+  "event_id": "4f499361-9490-49af-8c51-5d2aa1ed37a2",
+  "conversation_id": "1162ccf1-10b2-4d99-a18c-f7a2ed5c07a8",
+  "created_at": {
+    "$date": "2025-07-13T09:35:39.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6873856b7c66aff80556e53e"
+  },
+  "user_id": "test123",
+  "title": "Project Updates with John",
+  "start_time": {
+    "$date": "2024-07-13T21:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T22:00:00.000Z"
+  },
+  "description": "Meeting with John for project updates.",
+  "event_id": "fdf3d43e-edc5-411d-b5b6-8478a947b387",
+  "conversation_id": "df64b316-0e9e-4085-b814-cc3bb3bc3b94",
+  "created_at": {
+    "$date": "2025-07-13T10:07:39.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68739623b1b1548e75ade82f"
+  },
+  "user_id": "test123",
+  "title": "Reunión con Juan sobre ventas",
+  "start_time": {
+    "$date": "2024-07-14T10:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-14T11:00:00.000Z"
+  },
+  "description": "Reunión con Juan mañana a las 10am sobre ventas.",
+  "event_id": "3d3c986c-44dd-4a5c-a7b8-d9f8b4b705f9",
+  "conversation_id": "6a69889d-fa8e-4938-bcc2-841e75ba84d0",
+  "created_at": {
+    "$date": "2025-07-13T11:18:59.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6873c4074ebdffff26405f7d"
+  },
+  "user_id": "string",
+  "title": "Meeting with Ravi",
+  "start_time": {
+    "$date": "2024-07-19T05:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-19T06:00:00.000Z"
+  },
+  "description": null,
+  "event_id": "0111bb6a-07ec-4d55-82d4-9e1e8c1b362f",
+  "conversation_id": "a1702cd3-6233-4a2e-86e2-79e68fb2e331",
+  "created_at": {
+    "$date": "2025-07-13T14:34:47.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6873c4b74ebdffff26405f80"
+  },
+  "user_id": "guest-be601b02-d15e-4f90-a796-d19bcc536a99",
+  "title": "Meeting with Ravi",
+  "start_time": {
+    "$date": "2024-04-19T05:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-04-19T06:00:00.000Z"
+  },
+  "description": "Meeting with Ravi",
+  "event_id": "8dbdc4ec-adfd-42b5-b8ef-001b588d3765",
+  "conversation_id": "1332eeeb-13f3-4076-8188-ee4d435d9353",
+  "created_at": {
+    "$date": "2025-07-13T14:37:43.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68740f90960342427bdcb268"
+  },
+  "user_id": "jk",
+  "title": "Meeting with John",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Meeting with John tomorrow at 3pm",
+  "event_id": "996759af-afd6-46de-bcd0-b65addb77c62",
+  "conversation_id": "72931ca1-e4f1-423d-b190-0d0c6c72f264",
+  "created_at": {
+    "$date": "2025-07-13T19:57:04.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687413ce960342427bdcb26c"
+  },
+  "user_id": "guest-c8420ae8-8b2c-4bab-a380-4c0172b35b3d",
+  "title": "Meeting with John",
+  "start_time": {
+    "$date": "2024-07-13T15:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-13T16:00:00.000Z"
+  },
+  "description": "Meeting with John tomorrow at 3pm",
+  "event_id": "c8eb107f-7971-420c-87ff-5a7684903c9d",
+  "conversation_id": "2933d09d-496e-4a6b-a3bd-da9414b54c17",
+  "created_at": {
+    "$date": "2025-07-13T20:15:10.531Z"
+  }
+}]

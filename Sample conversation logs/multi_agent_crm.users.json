@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "68731a13dde6aad032a104e5"
+  },
+  "user_id": "string",
+  "name": "string",
+  "email": "user@example.com",
+  "company": "123asdfg",
+  "location": "string",
+  "preferences": "string"
+},
+{
+  "_id": {
+    "$oid": "68731c4e44d529ea7ca9adba"
+  },
+  "user_id": "shanmukh",
+  "name": "shanmukh",
+  "email": "shanmukh@gmail.com",
+  "company": "OAKAD&CO",
+  "location": "NYC",
+  "preferences": "NYC"
+},
+{
+  "_id": {
+    "$oid": "687326735ce1ce495b29b8e1"
+  },
+  "user_id": "guest-e8316ada-9374-4007-bb6b-2748ebe99eef",
+  "name": "Guest User",
+  "email": null,
+  "location": null,
+  "preferences": null,
+  "created_at": {
+    "$date": "2025-07-13T03:22:27.300Z"
+  },
+  "is_guest": true
+},
+{
+  "_id": {
+    "$oid": "6873c4b54ebdffff26405f7f"
+  },
+  "user_id": "guest-be601b02-d15e-4f90-a796-d19bcc536a99",
+  "name": "Guest User",
+  "email": null,
+  "location": null,
+  "preferences": null,
+  "created_at": {
+    "$date": "2025-07-13T14:37:41.259Z"
+  },
+  "is_guest": true
+},
+{
+  "_id": {
+    "$oid": "6874111a960342427bdcb26a"
+  },
+  "user_id": "jk",
+  "name": "jk",
+  "email": "user@example.com",
+  "company": "string",
+  "location": "string",
+  "preferences": "string"
+},
+{
+  "_id": {
+    "$oid": "687413cc960342427bdcb26b"
+  },
+  "user_id": "guest-c8420ae8-8b2c-4bab-a380-4c0172b35b3d",
+  "name": "Guest User",
+  "email": null,
+  "location": null,
+  "preferences": null,
+  "created_at": {
+    "$date": "2025-07-13T20:15:08.435Z"
+  },
+  "is_guest": true
+}]
